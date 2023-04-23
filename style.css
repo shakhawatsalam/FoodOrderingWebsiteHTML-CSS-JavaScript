@@ -235,6 +235,24 @@ header .s-trigger i.ri-close-line,
 .showsearch header .s-trigger:hover{
     background-color: #ff25254a;
 }
+
+/* 02. SLIDER  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width: 768px) {
     .mobile-only{
         display: none;
